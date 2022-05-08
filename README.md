@@ -1,0 +1,2 @@
+# SistemasPerceptuales
+INTERACCIÓN HUMANA COMPUTADORA
